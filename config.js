@@ -7,9 +7,9 @@ global.qris = "-"
 
 
 // GLOBAL SETTING
-global.owner = "2347041620617"
+global.owner = "2348120055226"
 global.namabot = "𝐒𝐋𝐀𝐘𝐄𝐑 𝐕𝟒͖"
-global.nomorbot = "2347041620617"
+global.nomorbot = "2348120055226"
 global.namaCreator = "𝐄𝐌𝐏𝐄𝐑𝐎𝐑"
 global.linkyt = "https://whatsapp.com/channel/0029VaN2eQQ59PwNixDnvD16"
 global.autoJoin = false
